@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # NetSpeedOverlay
 
 A lightweight, frameless, always-on-top live network speed overlay for Windows built with **Python 3.11+**, **PySide6**, and **psutil**.
@@ -86,3 +87,7 @@ relative to itself, so the project can be moved without editing an absolute path
 ### Single-instance behavior
 
 Only one NetSpeedOverlay process is allowed to run at a time. If you launch the EXE again while it is already running, the extra launch exits without opening another copy.
+=======
+# NetSpeedMeter
+A lightweight Windows internet speed overlay built with Python
+>>>>>>> 266887aa7d9f89b7ec07d489191fe1942baa7b82
